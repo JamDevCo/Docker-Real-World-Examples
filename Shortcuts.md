@@ -13,7 +13,7 @@ Once Docker is installed, use Docker Interactive Window or Powershell to use the
 
 ## Login to docker
 
-To use docker, you must have a Docker ID or account, 
+To use Docker's public images, you must have a Docker ID or account, 
 go to https://hub.docker.com/ and register your account if you don't have one as yet.
 Otherwise, run the following command:
 
