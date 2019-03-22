@@ -1,4 +1,22 @@
+## Install Docker
+
+#### Installing Docker on Debian based distro
+```bash
+sudo apt-get install docker
+```
+
+### Installing Docker on Windows
+
+Go to https://hub.docker.com/editions/community/docker-ce-desktop-windows, download and install it.
+Once Docker is installed, use Docker Interactive Window or Powershell to use the following commands.
+
+
 ## Login to docker
+
+To use docker, you must have a Docker ID or account, 
+go to https://hub.docker.com/ and register your account if you don't have one as yet.
+Otherwise, run the following command:
+
 ```bash
 
 docker login
