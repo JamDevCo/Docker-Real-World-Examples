@@ -25,3 +25,8 @@ cp ~/Docker-Real-World-Examples/Wordpress/NewSite/docker-compose.yml .
 ```bash
 docker-compose up -d
 ```
+## Shuting down project
+
+```bash
+ docker-compose down
+ ```
