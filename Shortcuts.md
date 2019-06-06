@@ -5,6 +5,11 @@
 sudo apt-get install docker
 ```
 
+### Allow non-root users to run docker
+```bash
+sudo usermod -aG docker $USER
+```
+
 ### Installing Docker on Windows
 
 Go to https://hub.docker.com/editions/community/docker-ce-desktop-windows, download and install it.
