@@ -1,0 +1,3 @@
+[submodule "Wordpress/CustomImage"]
+	path = Wordpress/CustomImage
+	url = https://github.com/JamaicanDevelopers/docker-wordpress.git
